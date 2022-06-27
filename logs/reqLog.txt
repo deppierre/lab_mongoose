@@ -11,3 +11,6 @@
 20211011	17:49:24	2b74f46b-65d3-4041-9c87-65e0982d46ad	POST	undefined	/auth
 20211011	17:49:38	32899fb9-23b8-49fc-95ac-631462d7174c	POST	undefined	/employees
 20211011	17:49:44	df0482cf-3962-4078-9a8e-b4712e1d8658	DELETE	undefined	/employees
+20220627	09:59:59	7a28d8e6-6713-41bb-b176-ebbff0147cfe	GET	undefined	/
+20220627	09:59:59	f2275313-f19b-49ba-aaeb-f29fc108e61a	GET	undefined	/css/style.css
+20220627	09:59:59	f9c2610d-5961-42b8-a354-65021fcf0d40	GET	undefined	/favicon.ico
